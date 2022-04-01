@@ -1,30 +1,21 @@
 # persian-tc
 
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+Persian-tc is a Pythonic project for Persian Sentiment Classification.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies in the requirements.txt .
 
 ```bash
-pip install foobar
+pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```python
-import foobar
 
-# returns 'words'
-foobar.pluralize('word')
+python api.py
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
 ```
 
 ## Contributing
