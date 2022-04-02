@@ -1,4 +1,10 @@
-# persian-tc
+# Persian-tc 'CODE' repo
+
+All code and docker files are included in this repo. Model Weights, checkpoints and etc are stored in the google drive folder linked below :
+
+https://drive.google.com/drive/folders/1BwPaqPqMPAm6wZMh6mAE7BmJp_UJvvue?usp=sharing
+
+Replace the code files in this repo with the ones existed in the Gdrive and you're good to go.
 
 Persian-tc is a Pythonic project for Persian Sentiment Classification.
 
