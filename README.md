@@ -52,7 +52,10 @@ docker run -it -p 5000:5000 <name_of_your_docker_image>
 ```
 or try running the image file using docker desktop and send your request to the offered port.
 
+# Trained Models
 
+##Codes for data cleaning, model training and plots of the models operations in both gloVe and w2v embeddings are in the jupyter notebook files. 
+Enjoy playing with the params :)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
