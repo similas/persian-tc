@@ -21,7 +21,7 @@ Run this command :
 python api.py
 
 ```
-And send a POST request to "http://127.0.0.1:8000/glove" or "http://127.0.0.1:8000/w2v" with your persian sentence and the result is gonna be like this for "قیمت ها بالاست" :
+And send a POST request to "http://127.0.0.1:5000/glove" or "http://127.0.0.1:5000/w2v" with your persian sentence and the result is gonna be like this for "قیمت ها بالاست" :
 
 ```python
 
