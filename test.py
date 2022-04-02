@@ -3,7 +3,7 @@ import requests
 from api import remove_stopwords
 
 class ApiTest(unittest.TestCase):
-    API_URLs = ["http://127.0.0.1:8000/glove", "http://127.0.0.1:8000/w2v"]
+    API_URLs = ["http://127.0.0.1:5000/glove", "http://127.0.0.1:5000/w2v"]
     
     def test_api(self):
         
